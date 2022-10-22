@@ -6,3 +6,6 @@ Multiplication = function(x,y){
   x * y
 }
 
+Subtraction = function(x,y){
+  x - y 
+}
